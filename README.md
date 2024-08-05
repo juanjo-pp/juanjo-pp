@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juanjo-pp
+- 👀 I’m interested in coding
+- ⌨️ I’m looking to collaborate on APIs and ETL
+- 🍦 I love the ice-cream
